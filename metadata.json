@@ -1,0 +1,6 @@
+{
+  "name": "Falling Leaf",
+  "description": "An elegant all-black website featuring a single, beautifully animated falling leaf responsive to gentle breezes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
